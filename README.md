@@ -1,5 +1,5 @@
 ## Olá, me chamo André 👋 
-### Técnico de informática cursando Ciência da Computação 💻
+### Cursando Ciência da Computação 💻
 
 ### Contatos ✉️ 
     carvalhoandre149@gmail.com 
