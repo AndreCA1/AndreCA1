@@ -5,9 +5,8 @@
 
 [![Currículo](https://img.shields.io/badge/Ver%20Currículo-Canva-blue?style=for-the-badge&logo=canva)](https://www.canva.com/design/DAGGkh4gQK4/RdkactHQ_5uXjlFoOk-qLg/view?utm_content=DAGGkh4gQK4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd9ad08bd96)
 
-### Contatos ✉️ 
+### Contato ✉️ 
     carvalhoandre149@gmail.com 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carvalhoandre149)
 
 ### Tecnologias:
 <div style = "display: inline_block"><br/>
