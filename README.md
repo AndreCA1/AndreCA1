@@ -1,6 +1,6 @@
 ## Olá, me chamo André Carvalho Araújo👋
 #### Cursando Ciência da Computação 💻
-Busco a cada dia ser um melhor desenvolvedor de software e solucionador de problemas, visando me tornar um excelente cientista da computação. Sou fã de tecnologia e também me interesso um pouco pelo área financeira. 
+Busco a cada dia ser um melhor desenvolvedor de software e solucionador de problemas, visando me tornar um excelente cientista da computação. Sou fã de tecnologia e também me interesso um pouco pela área financeira. 
 Atualmente estou focado em Java, mas sempre em busca de novos desafios 🏆
 
 ### Tecnologias:
